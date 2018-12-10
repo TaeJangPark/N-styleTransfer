@@ -1,0 +1,2 @@
+model_checkpoint_path: "N-style_final.ckpt"
+all_model_checkpoint_paths: "N-style_final.ckpt"
