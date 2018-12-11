@@ -3,7 +3,7 @@
 ### Installation
 if you want to use pretrained models, then all you need to do is:
 ```sh
-git clone https://git.linecorp.com/taejang-park/1-styleTransfer.git
+git clone https://github.com/djang000/N-styleTransfer.git
 ```
 
 if you also want to train new modes, you will need the MS-COCO or other natural images for training files and VGG wegihts by running.
